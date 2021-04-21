@@ -7,6 +7,10 @@ The most recent version, ZebResp1.0, works on **Matlab R2018b** and **R2020b**. 
 <h2> Installation </h2>
 <br> </br>
 
+<h2> Input File Formats </h2>
+
+<h2> Usage Guide </h2>
+
 <p align="center">
   <img src="https://github.com/john-robert/splitlab/blob/master/SplitLab1.9.0/screen.png" align="center" height="460">
 </p>
