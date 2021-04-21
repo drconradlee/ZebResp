@@ -11,9 +11,9 @@ The most recent version, ZebResp1.0, works on **Matlab R2018b** and **R2020b**. 
 
 <h2> Input File Formats </h2>
 ZebResp requires three input files.
-<br> 1. Raw tiff files acquired from SPIM </br> 
-<br> 2. MAT file containing the frame timing of stimulus </br> 
-<br> 3. MAT file containing user defined parameters </br> 
+<li> 1. Raw tiff files acquired from SPIM </li> 
+<li> 2. MAT file containing the frame timing of stimulus </li> 
+<li> 3. MAT file containing user defined parameters </li> 
 
 Examples of each are provided under demo folder.
 
