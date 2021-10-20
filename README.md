@@ -21,7 +21,3 @@ ZebResp requires three input files.
 Examples of each are provided under demo folder.
 
 <h2> Usage Guide </h2>
-
-<p align="center">
-  <img src="https://github.com/john-robert/splitlab/blob/master/SplitLab1.9.0/screen.png" align="center" height="460">
-</p>
